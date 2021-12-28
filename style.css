@@ -1,0 +1,40 @@
+		td, th{
+			border-width: 2px;
+			border-style: solid;
+			border-color: black;
+			font-size: 25px;
+
+		}
+	    table{
+	    	border-collapse: collapse;
+	    	width:50%;
+	    	margin: 0 auto;
+	    }
+	    th{
+	    	background-color: green;
+	    	color:white;
+	    }
+	    td{
+	    	background-color: yellow;
+	    	text-align: center;
+	    }
+	    caption{
+	    	font-size: 32px;
+	    	font-weight: bold;
+	    	text-transform: uppercase;
+	    }
+	    .oceanblue{
+	    	background-color: #2ABAD1;
+	    }
+	    .lightblue{
+	    	background-color: lightblue;
+	    }
+	    .lime{
+	    	background-color: lime;
+	    }
+	    .num{
+	    	background-color: purple;
+	    }
+	    .dota{
+	    	background-color: #762589;
+	    }
